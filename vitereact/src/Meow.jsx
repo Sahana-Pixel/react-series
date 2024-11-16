@@ -1,5 +1,3 @@
-
-
 const Meow = () => {
   return (
     <div>
@@ -10,4 +8,4 @@ const Meow = () => {
 
 export default Meow
 
-// Meow.jsx first letter should be capital
+// Meow function first letter should be capital

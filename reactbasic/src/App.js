@@ -9,3 +9,8 @@ function App() {
 }
 
 export default App;
+
+// app is function that return html that si render
+// through js we are rendering html
+// we have not loaded js in html then how index.js is loaded?
+// react-script: this will load index.js
