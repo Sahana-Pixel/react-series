@@ -18,8 +18,17 @@ function App() {
 
   let removeValue = () => {
     // counter=counter-1
-    setCounter(counter-1)
-    console.log(counter)
+    if(counter==0)
+    {
+      alert("Cannot remove more than 0")
+      return;
+    }
+    else
+    {
+      setCounter(counter-1)
+      console.log(counter)
+    }
+  
   }
 
   return (
