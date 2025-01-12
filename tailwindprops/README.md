@@ -21,3 +21,6 @@ this are added at top of index.css
   we are testing tailwind with the classname like bg-green
   used component from devui
   
+props - reusable properties
+when values are passed it get changes
+i  will new component that return card
